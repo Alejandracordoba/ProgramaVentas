@@ -20,10 +20,10 @@ Use Java24
 ## 📸 Capturas de pantalla
 
 Pantalla principal:  
-![Pantalla 1](images/Pantalla1.png)
+![Pantalla 1](images/Pantalla1.PNG)
 
 Pantalla de ventas:  
-![Pantalla 2](images/Pantalla2.png)
+![Pantalla 2](images/Pantalla2.PNG)
 
 ---
 
