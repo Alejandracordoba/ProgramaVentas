@@ -1,0 +1,15 @@
+com\venta\model\Producto.class
+com\venta\service\ReporteService.class
+com\venta\service\StockService.class
+com\venta\model\VentaTotal.class
+com\venta\service\StockService$1.class
+com\venta\Venta.class
+com\venta\ui\CierreCajaForm.class
+com\venta\service\VentaService.class
+com\venta\ui\GestionStockForm$2.class
+com\venta\ui\GestionVentaForm.class
+com\venta\ui\GestionStockForm$1.class
+com\venta\ui\GestionStockForm.class
+com\venta\ui\GestionVentaForm$1.class
+com\venta\model\VentaItem.class
+com\venta\ui\CierreCajaForm$1.class
