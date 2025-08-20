@@ -1,2 +1,32 @@
-# ProgramaVentas
-Programa Base de Ventas con Excel
+
+
+# 🛒 Programa de Ventas
+
+Este proyecto fue desarrollado en **Java con NetBeans**.  
+Ejemplo de un sistema sencillo de gestión de ventas.
+Use Java24
+
+
+--
+
+## 🚀 Características
+- Registro de productos
+- Stock
+- Procesamiento de ventas
+- Reportes básicos
+
+---
+
+## 📸 Capturas de pantalla
+
+Pantalla principal:  
+![Pantalla 1](images/Pantalla1.png)
+
+Pantalla de ventas:  
+![Pantalla 2](images/Pantalla2.png)
+
+---
+
+## 👩‍💻 Autor
+**Alejandra Córdoba**
+
